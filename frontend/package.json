@@ -1,7 +1,7 @@
 {
-  "name": "mkachi-react-typescript-template",
+  "name": "react-file-upload",
   "version": "1.0.0",
-  "description": "My react-typescript project template",
+  "description": "React file upload frontend",
   "author": "MKachi <mkachi@naver.com>",
   "private": true,
   "scripts": {
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MKachi/mkachi-react-typescript-template.git"
+    "url": "git+https://github.com/mkachi/react-file-upload.git"
   },
   "keywords": [
     "react",
@@ -24,9 +24,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MKachi/mkachi-react-typescript-template/issues"
+    "url": "https://github.com/mkachi/react-file-upload/issues"
   },
-  "homepage": "https://github.com/MKachi/mkachi-react-typescript-template#readme",
+  "homepage": "https://github.com/mkachi/react-file-upload#readme",
   "dependencies": {
     "classnames": "^2.2.6",
     "react": "^16.14.0",
