@@ -1,5 +1,12 @@
-# react-file-upload
-React file upload sample
+# react-file-upload FrontEnd
+React file upload sample frontend
+
+## Run
+
+```bash
+npm install
+npm run develop
+```
 
 ## Scripts
 
